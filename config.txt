@@ -1,0 +1,19 @@
+config.txt
+please DO NOT change the format of this file. Only Modify the values. NO WHITE SPACES BETWEEN : AND VALUES!
+1. Use Coordinate Origin (1/0. 1 will allow user to input x and y for the origin. 0 will access cell coordinates as origin):0
+2. Origin X value (If enabled):2.3
+3. Origin Y value (If enabled):0.0
+4. Origin Cell Data File Name (If enabled):cell_data.txt
+5. Origin Cell Orientation (If enabled, choose from UL UR LL LR):UL
+6. Strike Location Orientation (choose from UL UR LL LR):UL
+7. Strike Area X:3
+8. Strike Area Y:3
+9. Strike Area delta x:1
+10.Strike Area delta y:1
+11.Flip Horizontally (0/1. 1 will flip the coordinates horizontally):0
+12.Flip Vertically (0/1. 1 will flip the coordinates vertically):0
+13.Name of the Cell (If using cell coordinates):ZXV7123
+14.Origin Cell Properity File Name (If using cell coordinates):cell_prop.txt
+15.Input Coordinates Orientation (choose from UL UR LL LR):LL
+16.Enable Multi Coordinate Mode (1/0. 1 will read X and Y from each line. 0 will only read the first X and Y from first line):1
+END OF THE FILE#### Do not create extra lines under this
